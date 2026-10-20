@@ -6,6 +6,7 @@ public class main {
 		// TODO Auto-generated method stub
 //buenas gente
 		//las personas que lean esto es por que les he dejado leerlo
+		//las personan juzgan, y yo tambien 
 	}
 
 }
